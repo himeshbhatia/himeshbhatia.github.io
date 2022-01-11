@@ -1,3 +1,9 @@
+Published using GitHub pages
+https://medium.com/swlh/how-to-deploy-an-angular-app-to-github-pages-without-using-any-libraries-step-by-step-guide-cfe96fb0c879
+
+
+
+
 # MyProfile
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
